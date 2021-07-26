@@ -1,0 +1,1 @@
+# futfit-image-resource
